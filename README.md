@@ -20,10 +20,10 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 Repository Files
 This repository contains following files:
 
-README.md , this file, which provides an overview of the data set and how it was created.
-tidy_data.txt , which contains the data set.
-CodeBook.md , the code book, which describes the contents of the data set.
-run_analysis.R , the R script that was used to create the data set (see the Creating the data set section below)
+- README.md , this file, which provides an overview of the data set and how it was created.
+- tidy_data.txt , which contains the data set.
+- CodeBook.md , the code book, which describes the contents of the data set.
+- run_analysis.R , the R script that was used to create the data set (see the Creating the data set section below)
 
 
 Creating the dataset
